@@ -1,2 +1,3 @@
-# flutter_tdd_clean_arch
-This project is developed by using clean architecture
+# TDD Clean Architecture for Flutter
+
+Learn from the [tutorial series](https://resocoder.com/category/tutorials/flutter/tdd-clean-architecture/) on Reso Coder.
